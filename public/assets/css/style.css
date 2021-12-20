@@ -1,0 +1,4 @@
+.fondo-body {
+	background-image: url('/assets/img/fondo/fondo1.jpg');
+	// filter: blur(5px);
+}
